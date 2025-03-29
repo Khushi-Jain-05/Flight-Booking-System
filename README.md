@@ -51,8 +51,7 @@ FlightBookingSystem/
 │   ├── json-20240303.jar         # JSON parsing library
 │── out/
 │   ├── APIHandler.class          # Compiled class files
-│── src/
-│   ├── APIHandler.java           # API request handling
+│── src/        
 │   ├── BookingSystem.java        # Main GUI and event handling
 │── image.jpg                     # Background image for UI
 ```
